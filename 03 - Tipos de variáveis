@@ -1,0 +1,13 @@
+No python são disponibilizadas três tipos de variáveis e elas são do tipo int, float e booleana ou bool.
+
+As variáveis ou objetos nesse caso do tipo inteiro (int) recebem números do tipo inteiro negativos e positivos. Por
+exemplo você pode definir um objeto do tipo int declarando o nome do objeto seguido do igual e á frente o valor de
+referência.
+
+Para objetos do tipo float são aceitos números de ponto flutuante ou números reais, sugestão para seu uso é no calculo
+de média ou até mesmo para valores monetários.
+
+Em objetos do tipo booleano são aceitos somente os valores True ou False com as primeiras letras miusculas, auxiliam 
+estruturas lógicas e estruturas de repetição com o número de repetições desconhecido.
+
+A referência do código vai estar no arquivo de mesmo nome com a extensão py.

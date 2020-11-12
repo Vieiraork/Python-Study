@@ -1,0 +1,8 @@
+A primeira coisa, ou uma das primeiras é saber qual comando ou função exibe algo na tela certo? No python esse comando
+chama-se print simples assim. Ao contrário da linguagem C o print aqui pula automaticamente para a próxima linha sem a
+necessidade do '\n'. Porque falei que o print é uma função? No python 2 ele era um simples comando, porem com a vinda
+da versão 3 foi alterada sua estrutura para uma função. Vejamos um exemplo de código no arquivo de mesmo nome com a
+extensão py.
+
+Caso você queira imprimir na tela uma string é recomendável usar aspas simples. Podemos também fazer o print com
+multiplas linhas acrescentando três aspas no inicio da string e três ao final.

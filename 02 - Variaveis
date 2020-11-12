@@ -1,0 +1,4 @@
+Na linguagem de programação python toda variável é um objeto, ou seja, nativamente é possível acessar funções nativas
+do objeto, por exemplo.
+    Um objeto do tipo string pode acessar a função strip que retira espaços indesejados na entrada de dados pelo usuário
+como mostra o código no arquivo com o mesmo nome desse só que com a exetensão .py.
